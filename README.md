@@ -39,3 +39,5 @@ src/
 - Used component-based architecture for scalability
 - Implemented debouncing to optimize API calls
 - Used Tailwind CSS for fast and responsive UI development
+# movie-search-app
+A responsive Movie Search Web App built with React and Tailwind CSS that fetches data from an external API, featuring search, filtering, sorting, favorites, and dark mode.
